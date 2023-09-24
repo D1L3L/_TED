@@ -1,2 +1,2 @@
-nome = str(input())
+nome = str(input("Qual o seu nome?"))
 print (nome)
