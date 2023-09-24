@@ -1,0 +1,4 @@
+1. Identificar conexão 
+2. Coletar áudio do link https://www.youtube.com/watch?v=_ITiwPMUzho
+3. Iniciar reprodução
+4. Fim                        
